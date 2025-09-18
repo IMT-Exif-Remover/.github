@@ -101,7 +101,6 @@ Yes — the latest version is released as freeware.
 ## 🔖 Tags
 
 IMT Exif Remover • exif remover macOS • remove metadata photos • clean exif jpeg • remove exif heic • batch metadata cleaner • privacy photo tool mac • image metadata remover freeware  
-## 🔖 Tags
 
 - IMT Exif Remover macOS  
 - exif cleaner mac app  
