@@ -63,7 +63,6 @@ Instead of manually opening each photo in editors or using complex command-line 
 
 ## 🖼️ Screenshots
 
-![App Screenshot](https://static.macupdate.com/screenshots/312851/m/imt-exif-remover-screenshot.png?v=1632328127)  
 ![Drag & Drop Example](https://www.imactools.com/exifremover/images/addimages.jpg)
 
 ---
